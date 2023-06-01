@@ -1,9 +1,9 @@
 
-package apostilaexerciciosfaccat; 
+package exerciciosFaccat; 
   
  import java.util.Scanner; 
   
- public class Exercicio28 { 
+ public class Exercicio28Faccat { 
  //Ler 3 valores (considere que não serão informados valores iguais) e escrever o maior deles.  
          public static void main(String[] args) { 
                  try { 
